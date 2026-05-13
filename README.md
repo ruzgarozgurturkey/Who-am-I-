@@ -1,5 +1,8 @@
-# About-Me-
-This repository is about me. Lets get know each other well.
-Hey you! My name is Rüzgar and I'm excited to share my experiences with you in GitHub. This will be my first ever article ever. So shall we start with the first topic? That will be the education system in my country, Türkiye! But first you have got the know
-me better. I live in İzmir/Türkiye for almost 3 years. Im a 11th grade student in high school. With my repositorys and articles, you can learn more about science, life, how the world runs and you can improve
-your writing abilities with me in my blog.  Im planing to share 1 to 2 repositories everyday. Thank you for reading.
+Hello. I'm Rüzgar. Welcome to my personal blog. 
+In this platform, my goal is to reach as many people 
+that I can and share my experiences, scientific researches and
+usefull ideas. You may have wondered that why you actually here.
+I'm into AI, programming and maths. I can entertain
+myself with math questions or complicated problems. 
+My goal is the make people eyes open. Because knowledge
+is an power.
